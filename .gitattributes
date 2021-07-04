@@ -1,2 +1,2 @@
 *.C++ linguist-detectable=true
-*.gnuplot linguist-detectable=false
+*.Gnuplot linguist-detectable=false
