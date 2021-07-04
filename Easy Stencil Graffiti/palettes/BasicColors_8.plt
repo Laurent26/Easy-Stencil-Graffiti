@@ -1,0 +1,11 @@
+BasicColors_8
+Start
+#000000
+#ffffff
+#ff0000
+#0000ff
+#00ff00
+#ffff00
+#ff00ff
+#00ffff
+End
